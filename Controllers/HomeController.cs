@@ -23,7 +23,7 @@ namespace Prueba_practica_mvc.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Autor()
         {
             return View();
         }

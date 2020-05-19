@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Mi unidad\\Dimabe\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\Prueba-practica-mvc.csproj": {}
+    "C:\\Users\\Supervisor MDA\\Documents\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\Prueba-practica-mvc.csproj": {}
   },
   "projects": {
-    "E:\\Mi unidad\\Dimabe\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\Prueba-practica-mvc.csproj": {
+    "C:\\Users\\Supervisor MDA\\Documents\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\Prueba-practica-mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Mi unidad\\Dimabe\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\Prueba-practica-mvc.csproj",
+        "projectUniqueName": "C:\\Users\\Supervisor MDA\\Documents\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\Prueba-practica-mvc.csproj",
         "projectName": "Prueba-practica-mvc",
-        "projectPath": "E:\\Mi unidad\\Dimabe\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\Prueba-practica-mvc.csproj",
+        "projectPath": "C:\\Users\\Supervisor MDA\\Documents\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\Prueba-practica-mvc.csproj",
         "packagesPath": "C:\\Users\\Supervisor MDA\\.nuget\\packages\\",
-        "outputPath": "E:\\Mi unidad\\Dimabe\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\obj\\",
+        "outputPath": "C:\\Users\\Supervisor MDA\\Documents\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

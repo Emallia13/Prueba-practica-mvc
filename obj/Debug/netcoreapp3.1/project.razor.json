@@ -20536,6 +20536,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Supervisor MDA\\Documents\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\Views\\Home\\Autor.cshtml",
+      "TargetPath": "Views\\Home\\Autor.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Supervisor MDA\\Documents\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\Views\\Users\\index.cshtml",
       "TargetPath": "Views\\Users\\index.cshtml",
       "FileKind": "mvc"
@@ -20548,11 +20553,6 @@
     {
       "FilePath": "c:\\Users\\Supervisor MDA\\Documents\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Supervisor MDA\\Documents\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {

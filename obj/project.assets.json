@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\mi unidad\\dimabe\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\Prueba-practica-mvc.csproj",
+      "projectUniqueName": "C:\\Users\\Supervisor MDA\\Documents\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\Prueba-practica-mvc.csproj",
       "projectName": "Prueba-practica-mvc",
-      "projectPath": "E:\\mi unidad\\dimabe\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\Prueba-practica-mvc.csproj",
+      "projectPath": "C:\\Users\\Supervisor MDA\\Documents\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\Prueba-practica-mvc.csproj",
       "packagesPath": "C:\\Users\\Supervisor MDA\\.nuget\\packages\\",
-      "outputPath": "E:\\mi unidad\\dimabe\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\obj\\",
+      "outputPath": "C:\\Users\\Supervisor MDA\\Documents\\DESARROLLO\\PROYECTOS\\Prueba-practica-mvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
